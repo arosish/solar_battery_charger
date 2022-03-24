@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_1844649"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-09-08-11:56:00)
+    (utime 2020-09-09-06:27:25)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CMSH1-40M_TR13_PBFREE")
+)
+
+
+(pinAssign "ECS_1844649"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-09-08-11:56:00)
+    (utime 2020-09-09-06:27:25)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1844649")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CMSH1-40M_TR13_PBFREE")
+)
+
+
+(part "CMSH1-40M_TR13_PBFREE"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-09-08-11:56:00)
+    (utime 2020-09-09-06:27:25)
+    (packageRef "CMSH1-40M_TR13_PBFREE")
+    (pinAssignRef "ECS_1844649")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Schottky Diodes & Rectifiers Schottky 1.0A 40V")
+    (property "Manufacturer_Name" "Central Semiconductor")
+    (property "Manufacturer_Part_Number" "CMSH1-40M TR13 PBFREE")
+    (property "Mouser_Part_Number" "610-CMSH1-40M/R")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=610-CMSH1-40M%2FR")
+    (property "Arrow_Part_Number" "CMSH1-40M TR13 PBFREE")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/cmsh1-40mtr13pbfree/central-semiconductor")
+    (property "Datasheet_Link" "https://www.arrow.com/en/products/cmsh1-40mtr13pbfree/central-semiconductor")
+    (property "compAreaTopHeight" 2.62)
+)
+
+

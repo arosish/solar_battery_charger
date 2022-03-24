@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CMSH1-40M_TR13_PBFREE
+D Schottky Diodes & Rectifiers Schottky 1.0A 40V
+K
+F https://www.arrow.com/en/products/cmsh1-40mtr13pbfree/central-semiconductor
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CMSH1-40M_TR13_PBFREE"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-08-11:56:00)
+    (mountForm default
+        (footprintRef "DIOM5226X262N")
+        (spec "System")
+    )
+)

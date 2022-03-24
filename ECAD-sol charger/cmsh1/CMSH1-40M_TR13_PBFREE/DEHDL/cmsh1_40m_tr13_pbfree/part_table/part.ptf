@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CMSH1_40M_TR13_PBFREE'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Central Semiconductor", "CMSH1-40M TR13 PBFREE" (!) = "", "DIOM5226X262N", "Diodes Moulded", "610-CMSH1-40M/R", "https://www.mouser.com/Search/Refine.aspx?Keyword=610-CMSH1-40M%2FR", "CMSH1-40M TR13 PBFREE", "https://www.arrow.com/en/products/cmsh1-40mtr13pbfree/central-semiconductor", "Schottky Diodes & Rectifiers Schottky 1.0A 40V", "https://www.arrow.com/en/products/cmsh1-40mtr13pbfree/central-semiconductor", "2.62 mm"
+END_PART
+
+END.

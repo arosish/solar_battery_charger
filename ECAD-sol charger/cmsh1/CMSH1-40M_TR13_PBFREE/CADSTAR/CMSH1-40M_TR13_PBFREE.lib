@@ -1,0 +1,18 @@
+.CMSH1-40M_TR13_PBFREE :1 ;Schottky Diodes & Rectifiers Schottky 1.0A 40V
+DIOM5226X262N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN CMSH1-40M_TR13_PBFREE
+~!Manufacturer_Name (Central Semiconductor)
+~!Manufacturer_Part_Number (CMSH1-40M TR13 PBFREE)
+~!Mouser Part Number (610-CMSH1-40M/R)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=610-CMSH1-40M%2FR)
+~!Arrow Part Number (CMSH1-40M TR13 PBFREE)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/cmsh1-40mtr13pbfree/central-semiconductor)
+~!Link Datasheet (https://www.arrow.com/en/products/cmsh1-40mtr13pbfree/central-semiconductor)
+~!Height (2.62mm)
+~!3D_Model (CMSH1-40M_TR13_PBFREE)
+CMSH1-40M_TR13_PBFREE
+1.1!U 2.1!U 

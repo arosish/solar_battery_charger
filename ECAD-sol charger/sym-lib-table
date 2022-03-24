@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CMSH1-40M_TR13_PBFREE)(type Legacy)(uri ${KIPRJMOD}/cmsh1/CMSH1-40M_TR13_PBFREE/KiCad/CMSH1-40M_TR13_PBFREE.lib)(options "")(descr ""))
+  (lib (name CMSH3-40MA_TR13)(type Legacy)(uri ${KIPRJMOD}/cmsh1/CMSH3-40MA_TR13/KiCad/CMSH3-40MA_TR13.lib)(options "")(descr ""))
+)
